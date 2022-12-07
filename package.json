@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "Advent of code - 2022 By: Roshan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshankumarsinha/Advent-of-Code-2022.git"
+  },
+  "author": "Roshan Sinha roshankumarsinha321@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roshankumarsinha/Advent-of-Code-2022/issues"
+  },
+  "homepage": "https://github.com/roshankumarsinha/Advent-of-Code-2022#readme"
+}
